@@ -3,7 +3,7 @@
       display: flex;
   }
     .item{
-      justify-content: space-around;
+      justify-content: space-between;
   }
  </style>
 <h1 align="center">Hi 👋, I'm Edmilson Lino</h1>
@@ -24,5 +24,5 @@
 <div id="conteudo">
   <p class="item"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warlore&show_icons=true&locale=en&layout=compact" alt="warlore" /></p>
 
-  <p class="item"><img align="right" src="https://github-readme-stats.vercel.app/api?username=warlore&show_icons=true&locale=en" alt="warlore" width="420px"/></p>
+  <p class="item"><img align="right" src="https://github-readme-stats.vercel.app/api?username=warlore&show_icons=true&locale=en" alt="warlore" width="440px"/></p>
 </div>
