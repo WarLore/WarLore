@@ -15,5 +15,5 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warlore&show_icons=true&locale=en&layout=compact" alt="warlore" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warlore&show_icons=true&locale=en" alt="warlore" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=warlore&show_icons=true&locale=en" alt="warlore" /></p>
 
