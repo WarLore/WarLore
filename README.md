@@ -24,5 +24,5 @@
 <div id="conteudo">
   <p class="item"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warlore&show_icons=true&locale=en&layout=compact" alt="warlore" /></p>
 
-  <p class="item"><img align="right" src="https://github-readme-stats.vercel.app/api?username=warlore&show_icons=true&locale=en" alt="warlore" widht="130px"/></p>
+  <p class="item"><img align="right" src="https://github-readme-stats.vercel.app/api?username=warlore&show_icons=true&locale=en" alt="warlore" widht="110px"/></p>
 </div>
