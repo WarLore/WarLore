@@ -1,16 +1,8 @@
-<style>
-    #conteudo{
-      display: flex;
-  }
-    .item{
-      justify-content: space-between;
-  }
- </style>
 <h1 align="center">Hi 👋, I'm Edmilson Lino</h1>
 <h3 align="left">A Computer Science student</h3>
 
-- 🎓 Currently in the 4th period of Computer Science - UIT
-- 📚 Currently studying JAVA, React JS and C#
+<p>- 🎓 Currently in the 4th period of Computer Science - UIT</p>
+<p>- 📚 Currently studying JAVA, React JS and C#</p>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -18,11 +10,10 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/edmilson-lino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edmilson-lino" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edmilson-lino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edmilson-lino" height="30" width="40" /></a>
 </p>
 <hr>
-<div id="conteudo">
-  <p class="item"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warlore&show_icons=true&locale=en&layout=compact" alt="warlore" /></p>
-
-  <p class="item"><img align="right" src="https://github-readme-stats.vercel.app/api?username=warlore&show_icons=true&locale=en" alt="warlore" width="440px"/></p>
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warlore&show_icons=true&locale=en&layout=compact" alt="warlore" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=warlore&show_icons=true&locale=en" alt="warlore" width="440px"/>   
 </div>
