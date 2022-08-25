@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edmilson Lino</h1>
 
 <h3>A Computer Science student</h3>
-<p>- 🎓 Currently in the 4th period of Computer Science - UIT</p>
-<p>- 📚 Currently studying JAVA, React JS and C#</p>
+<p>- 🎓 Currently in the 6th period of Computer Science - UIT</p>
 
 <hr>
 <h3>Languages and Tools:</h3>
